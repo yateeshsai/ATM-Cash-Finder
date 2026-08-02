@@ -59,3 +59,9 @@ GET /api/atms/search
 ## Author
 
 Yateesh Sai Simhadri
+
+## Screenshots
+
+### Home Page
+
+![ATM Cash Finder Home](./screenshots/home.png)
